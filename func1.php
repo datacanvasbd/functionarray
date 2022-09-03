@@ -11,3 +11,10 @@ else {
     echo "{$x} is an odd number";
      }
 
+
+
+     echo "<br>";
+
+     $a=20;
+     echo "Factorial of {$a} is ".factorial($a);
+
